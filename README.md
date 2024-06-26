@@ -1,0 +1,2 @@
+# vagrant
+Vagrant for centos
